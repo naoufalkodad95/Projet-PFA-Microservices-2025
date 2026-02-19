@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\data\\tournoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\data\\tournoidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\controllers\\equipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\controllers\\equipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\controllers\\tournoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\controllers\\tournoiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\dtos\\tournoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\dtos\\tournoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\models\\tournoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\models\\tournoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\models\\equipetournoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\models\\equipetournoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\dtos\\equipetournoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\dtos\\equipetournoidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\dtos\\classementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\dtos\\classementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\models\\equipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\dtos\\equipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\dtos\\equipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\controllers\\classementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\controllers\\classementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\implementations\\tournoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\implementations\\tournoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\tournoiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\tournoiapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\dtos\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\dtos\\matchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\interfaces\\itournoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\interfaces\\itournoirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\interfaces\\iequiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\interfaces\\imatchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\interfaces\\iclassementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\interfaces\\iclassementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\implementations\\equiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\implementations\\equiperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\implementations\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\implementations\\matchrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\repositories\\implementations\\classementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\repositories\\implementations\\classementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|c:\\users\\kdnao\\downloads\\wail_back_react\\wail_back_react\\tournoiapi\\tournoiapi\\tournoiapi\\models\\classement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{592D89A5-8E77-4F6E-955C-6C6440C8D744}|TournoiAPI\\TournoiAPI.csproj|solutionrelative:tournoiapi\\models\\classement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250429132015_createdbTournoiService.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs",
+              "RelativeToolTip": "TournoiAPI\\Migrations\\20250429132015_createdbTournoiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T13:20:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EquipeTournoiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\EquipeTournoiDTO.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\DTOs\\EquipeTournoiDTO.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\EquipeTournoiDTO.cs",
+              "RelativeToolTip": "TournoiAPI\\DTOs\\EquipeTournoiDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:48:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EquipeTournoi.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\EquipeTournoi.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Models\\EquipeTournoi.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\EquipeTournoi.cs",
+              "RelativeToolTip": "TournoiAPI\\Models\\EquipeTournoi.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:44:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TournoisController.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\TournoisController.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Controllers\\TournoisController.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\TournoisController.cs",
+              "RelativeToolTip": "TournoiAPI\\Controllers\\TournoisController.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAwwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:45:43.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TournoiDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\TournoiDTO.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\DTOs\\TournoiDTO.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\TournoiDTO.cs",
+              "RelativeToolTip": "TournoiAPI\\DTOs\\TournoiDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:47:25.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tournoi.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Tournoi.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Models\\Tournoi.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Tournoi.cs",
+              "RelativeToolTip": "TournoiAPI\\Models\\Tournoi.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TournoiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Data\\TournoiDbContext.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Data\\TournoiDbContext.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Data\\TournoiDbContext.cs",
+              "RelativeToolTip": "TournoiAPI\\Data\\TournoiDbContext.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAADUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:46:12.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassementDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\ClassementDTO.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\DTOs\\ClassementDTO.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\ClassementDTO.cs",
+              "RelativeToolTip": "TournoiAPI\\DTOs\\ClassementDTO.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:48:33.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Equipe.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Equipe.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Models\\Equipe.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Equipe.cs",
+              "RelativeToolTip": "TournoiAPI\\Models\\Equipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:42:52.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EquipeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\EquipeDTO.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\DTOs\\EquipeDTO.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\EquipeDTO.cs",
+              "RelativeToolTip": "TournoiAPI\\DTOs\\EquipeDTO.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wBsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:47:51.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipesController.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\EquipesController.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Controllers\\EquipesController.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\EquipesController.cs",
+              "RelativeToolTip": "TournoiAPI\\Controllers\\EquipesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAuwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:47:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Program.cs",
+              "RelativeToolTip": "TournoiAPI\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:58:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TournoiAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\appsettings.json",
+              "RelativeToolTip": "TournoiAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T15:46:37.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TournoiAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\TournoiAPI.csproj",
+              "RelativeDocumentMoniker": "TournoiAPI\\TournoiAPI.csproj",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\TournoiAPI.csproj",
+              "RelativeToolTip": "TournoiAPI\\TournoiAPI.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T22:58:17.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TournoiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\TournoiRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Implementations\\TournoiRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\TournoiRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Implementations\\TournoiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:55:15.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Controllers\\MatchesController.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "TournoiAPI\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAIBJwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:55:11.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClassementsController.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\ClassementsController.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Controllers\\ClassementsController.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Controllers\\ClassementsController.cs",
+              "RelativeToolTip": "TournoiAPI\\Controllers\\ClassementsController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAIBQwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:41.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\ClassementRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Implementations\\ClassementRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\ClassementRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Implementations\\ClassementRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIBQwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:56:09.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\MatchRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Implementations\\MatchRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\MatchRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Implementations\\MatchRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:55:53.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EquipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\EquipeRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Implementations\\EquipeRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Implementations\\EquipeRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Implementations\\EquipeRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAIBQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:55:37.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IClassementRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IClassementRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Interfaces\\IClassementRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IClassementRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Interfaces\\IClassementRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:52:58.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IMatchRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Interfaces\\IMatchRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:52:47.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEquipeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IEquipeRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Interfaces\\IEquipeRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\IEquipeRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Interfaces\\IEquipeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:52:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITournoiRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\ITournoiRepository.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Repositories\\Interfaces\\ITournoiRepository.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Repositories\\Interfaces\\ITournoiRepository.cs",
+              "RelativeToolTip": "TournoiAPI\\Repositories\\Interfaces\\ITournoiRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:52:12.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\MatchDTO.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\DTOs\\MatchDTO.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\DTOs\\MatchDTO.cs",
+              "RelativeToolTip": "TournoiAPI\\DTOs\\MatchDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:48:13.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Classement.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Classement.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Models\\Classement.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Classement.cs",
+              "RelativeToolTip": "TournoiAPI\\Models\\Classement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:44:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "TournoiAPI\\Models\\Match.cs",
+              "ToolTip": "C:\\Users\\kdnao\\Downloads\\Wail_Back_react\\Wail_Back_react\\TournoiAPI\\TournoiAPI\\TournoiAPI\\Models\\Match.cs",
+              "RelativeToolTip": "TournoiAPI\\Models\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:43:31.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+/* src/components/Classement/ClassementStyle.css */
+
+/* Variables pour la palette de couleurs */
+:root {
+    --primary-color: #25A55F; /* Vert - actions principales */
+    --secondary-color: #FF6B35; /* Orange - actions secondaires */
+    --background-color: #FFFFFF; /* Fond blanc */
+    --text-color: #333333; /* Texte gris foncé */
+    --border-color: #E0E0E0; /* Gris clair pour bordures */
+    --highlight-color: #F2F9F5; /* Vert très clair pour surlignage */
+    --gold-color: #FFD700; /* Or pour le premier */
+    --silver-color: #C0C0C0; /* Argent pour le deuxième */
+    --bronze-color: #CD7F32; /* Bronze pour le troisième */
+  }
+  
+  /* Style du card principal */
+  .classement-card {
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    background-color: var(--background-color);
+    margin-bottom: 20px;
+  }
+  
+  /* Titre du classement */
+  .classement-title {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-color);
+  }
+  
+  /* Bouton de recalcul */
+  .recalculate-btn {
+    background-color: transparent;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    border-radius: 4px;
+    transition: all 0.3s ease;
+  }
+  
+  .recalculate-btn:hover {
+    background-color: var(--primary-color);
+    color: white;
+  }
+  
+  .recalculate-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+  
+  /* Style du tableau */
+  .classement-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .classement-table th {
+    background-color: var(--primary-color);
+    color: white;
+    font-weight: 600;
+    padding: 12px 15px;
+    text-align: center;
+    border: 1px solid var(--border-color);
+  }
+  
+  .classement-table td {
+    padding: 10px 15px;
+    border: 1px solid var(--border-color);
+    text-align: center;
+  }
+  
+  .classement-table tbody tr:hover {
+    background-color: var(--highlight-color);
+  }
+  
+  /* Style pour les rangs spéciaux */
+  .leader-row {
+    background-color: rgba(255, 215, 0, 0.1) !important; /* Légère teinte dorée */
+  }
+  
+  .top-row:nth-child(2) {
+    background-color: rgba(192, 192, 192, 0.1) !important; /* Légère teinte argentée */
+  }
+  
+  .top-row:nth-child(3) {
+    background-color: rgba(205, 127, 50, 0.1) !important; /* Légère teinte bronze */
+  }
+  
+  /* Cellules spécifiques */
+  .position-cell {
+    font-weight: 600;
+    position: relative;
+  }
+  
+  .team-name-cell {
+    text-align: left;
+    font-weight: 600;
+  }
+  
+  .points-cell {
+    font-weight: 700;
+    color: var(--primary-color);
+    font-size: 1.1em;
+  }
+  
+  .victories-cell {
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+  
+  .defeats-cell {
+    color: var(--secondary-color);
+  }
+  
+  .positive-diff {
+    color: var(--primary-color);
+    font-weight: 600;
+  }
+  
+  .negative-diff {
+    color: var(--secondary-color);
+    font-weight: 600;
+  }
+  
+  /* Trophée */
+  .trophy-icon {
+    margin-right: 5px;
+    font-size: 1.2em;
+  }
+  
+  /* Spinner */
+  .spinner-green {
+    color: var(--primary-color);
+  }
+  
+  /* Alertes */
+  .custom-alert {
+    border-radius: 4px;
+    margin-bottom: 20px;
+  }
+  
+  .info-alert {
+    background-color: #E6F3FF;
+    border-color: #B8DAFF;
+    color: #004085;
+  }
+  
+  /* Légende */
+  .legend-box {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    padding: 10px 15px;
+    font-size: 0.85rem;
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
+  }
+  
+  .legend-title {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  
+  .legend-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 8px;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-abbr {
+    font-weight: 600;
+    margin-right: 5px;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .classement-table th,
+    .classement-table td {
+      padding: 8px;
+      font-size: 0.9rem;
+    }
+    
+    .legend-grid {
+      grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    }
+  }

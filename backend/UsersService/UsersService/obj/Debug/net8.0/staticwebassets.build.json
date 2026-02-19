@@ -1,0 +1,949 @@
+{
+  "Version": 1,
+  "Hash": "5R3sHeVT9xgMecPiDOSw1PQdRRs+PfRbk1/TCkAL4gg=",
+  "Source": "UsersService",
+  "BasePath": "_content/UsersService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsersService\\wwwroot",
+      "Source": "UsersService",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_mmoufid_moufid.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/amine_mmoufid_moufid#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umxqscvtbm",
+      "Integrity": "xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\amine_mmoufid_moufid.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_moufid_moufid.png",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/amine_moufid_moufid#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "860l4stjy0",
+      "Integrity": "4AeLZP8CK7P9BQ8ykE7f1hqrhw49gFXJtqnqCvjrW08=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\amine_moufid_moufid.png"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\belfarchi_abdrahman_maldini.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/belfarchi_abdrahman_maldini#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jzazmuelcz",
+      "Integrity": "X1BC6KaHJ7UeA3I1cdTMxKKt4Ds/R92NIXfUlAH0qoQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\belfarchi_abdrahman_maldini.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\BILAL_KANBA_kanba.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/BILAL_KANBA_kanba#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lpgmzqwdwe",
+      "Integrity": "5xZXMygRX0Dhf08fxeeAURIJS6atz6+cFB+6CGx4V80=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\BILAL_KANBA_kanba.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\hamza_aamara_aamara.png",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/hamza_aamara_aamara#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lct9p08x7a",
+      "Integrity": "K4pajKCot/PGwxeHPc/M2HLywWd/zRnHkk/rqanhDH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\hamza_aamara_aamara.png"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\KODAD_NAOUFAL_kodadd.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/KODAD_NAOUFAL_kodadd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "umxqscvtbm",
+      "Integrity": "xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\KODAD_NAOUFAL_kodadd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodad_naoufal_naoufal.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/kodad_naoufal_naoufal#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6qozito3u",
+      "Integrity": "gvXn3T9gtQIOFBBfAQ0rFjZkC3qbspTDCNHMjwut+o4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kodad_naoufal_naoufal.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodada_naoufal_naoufalkodad.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/kodada_naoufal_naoufalkodad#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ypdlrtgjz",
+      "Integrity": "Y+okVH66zCmfnxKMhDq86cjS8bEnSC1qU7RehOMvZYc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\kodada_naoufal_naoufalkodad.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\oualid_arbib_ARBIB.jpg",
+      "SourceId": "UsersService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\",
+      "BasePath": "_content/UsersService",
+      "RelativePath": "uploads/oualid_arbib_ARBIB#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7bi5k1r84v",
+      "Integrity": "DSy4c4Fuc0mT3C/09CN902IPVJqncJ50HH1dBZjqGv8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\oualid_arbib_ARBIB.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/amine_mmoufid_moufid.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_mmoufid_moufid.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 09:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/amine_mmoufid_moufid.umxqscvtbm.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_mmoufid_moufid.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 09:19:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umxqscvtbm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/amine_mmoufid_moufid.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/amine_moufid_moufid.860l4stjy0.png",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_moufid_moufid.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AeLZP8CK7P9BQ8ykE7f1hqrhw49gFXJtqnqCvjrW08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "860l4stjy0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/amine_moufid_moufid.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AeLZP8CK7P9BQ8ykE7f1hqrhw49gFXJtqnqCvjrW08="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/amine_moufid_moufid.png",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_moufid_moufid.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "526613"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4AeLZP8CK7P9BQ8ykE7f1hqrhw49gFXJtqnqCvjrW08=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 15:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4AeLZP8CK7P9BQ8ykE7f1hqrhw49gFXJtqnqCvjrW08="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/belfarchi_abdrahman_maldini.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\belfarchi_abdrahman_maldini.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1BC6KaHJ7UeA3I1cdTMxKKt4Ds/R92NIXfUlAH0qoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 09:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1BC6KaHJ7UeA3I1cdTMxKKt4Ds/R92NIXfUlAH0qoQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/belfarchi_abdrahman_maldini.jzazmuelcz.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\belfarchi_abdrahman_maldini.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496304"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1BC6KaHJ7UeA3I1cdTMxKKt4Ds/R92NIXfUlAH0qoQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 09:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jzazmuelcz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/belfarchi_abdrahman_maldini.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1BC6KaHJ7UeA3I1cdTMxKKt4Ds/R92NIXfUlAH0qoQ="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/BILAL_KANBA_kanba.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\BILAL_KANBA_kanba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xZXMygRX0Dhf08fxeeAURIJS6atz6+cFB+6CGx4V80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 08:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xZXMygRX0Dhf08fxeeAURIJS6atz6+cFB+6CGx4V80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/BILAL_KANBA_kanba.lpgmzqwdwe.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\BILAL_KANBA_kanba.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34144"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xZXMygRX0Dhf08fxeeAURIJS6atz6+cFB+6CGx4V80=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 08:59:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lpgmzqwdwe"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/BILAL_KANBA_kanba.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xZXMygRX0Dhf08fxeeAURIJS6atz6+cFB+6CGx4V80="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/hamza_aamara_aamara.lct9p08x7a.png",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\hamza_aamara_aamara.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4pajKCot/PGwxeHPc/M2HLywWd/zRnHkk/rqanhDH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 18:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lct9p08x7a"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/hamza_aamara_aamara.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4pajKCot/PGwxeHPc/M2HLywWd/zRnHkk/rqanhDH8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/hamza_aamara_aamara.png",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\hamza_aamara_aamara.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "534817"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K4pajKCot/PGwxeHPc/M2HLywWd/zRnHkk/rqanhDH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 24 Apr 2025 18:55:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K4pajKCot/PGwxeHPc/M2HLywWd/zRnHkk/rqanhDH8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/KODAD_NAOUFAL_kodadd.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\KODAD_NAOUFAL_kodadd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:44:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/KODAD_NAOUFAL_kodadd.umxqscvtbm.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\KODAD_NAOUFAL_kodadd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 12:44:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "umxqscvtbm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/KODAD_NAOUFAL_kodadd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xqiD1R8drJAGb3WLGi/RkzxbKXTqp8mQ7Ty26wejGb4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kodad_naoufal_naoufal.a6qozito3u.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodad_naoufal_naoufal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvXn3T9gtQIOFBBfAQ0rFjZkC3qbspTDCNHMjwut+o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:57:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6qozito3u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kodad_naoufal_naoufal.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvXn3T9gtQIOFBBfAQ0rFjZkC3qbspTDCNHMjwut+o4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kodad_naoufal_naoufal.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodad_naoufal_naoufal.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100527"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gvXn3T9gtQIOFBBfAQ0rFjZkC3qbspTDCNHMjwut+o4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:57:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gvXn3T9gtQIOFBBfAQ0rFjZkC3qbspTDCNHMjwut+o4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kodada_naoufal_naoufalkodad.5ypdlrtgjz.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodada_naoufal_naoufalkodad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+okVH66zCmfnxKMhDq86cjS8bEnSC1qU7RehOMvZYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 00:36:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ypdlrtgjz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/kodada_naoufal_naoufalkodad.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+okVH66zCmfnxKMhDq86cjS8bEnSC1qU7RehOMvZYc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/kodada_naoufal_naoufalkodad.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodada_naoufal_naoufalkodad.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Y+okVH66zCmfnxKMhDq86cjS8bEnSC1qU7RehOMvZYc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 00:36:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Y+okVH66zCmfnxKMhDq86cjS8bEnSC1qU7RehOMvZYc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/oualid_arbib_ARBIB.7bi5k1r84v.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\oualid_arbib_ARBIB.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSy4c4Fuc0mT3C/09CN902IPVJqncJ50HH1dBZjqGv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 09:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7bi5k1r84v"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/oualid_arbib_ARBIB.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSy4c4Fuc0mT3C/09CN902IPVJqncJ50HH1dBZjqGv8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/oualid_arbib_ARBIB.jpg",
+      "AssetFile": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\oualid_arbib_ARBIB.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "46301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DSy4c4Fuc0mT3C/09CN902IPVJqncJ50HH1dBZjqGv8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 01 May 2025 09:17:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DSy4c4Fuc0mT3C/09CN902IPVJqncJ50HH1dBZjqGv8="
+        }
+      ]
+    }
+  ]
+}

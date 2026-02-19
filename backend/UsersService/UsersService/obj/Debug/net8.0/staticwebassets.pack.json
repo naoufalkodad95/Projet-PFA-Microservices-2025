@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\BILAL_KANBA_kanba.jpg",
+      "PackagePath": "staticwebassets\\uploads\\BILAL_KANBA_kanba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\KODAD_NAOUFAL_kodadd.jpg",
+      "PackagePath": "staticwebassets\\uploads\\KODAD_NAOUFAL_kodadd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_mmoufid_moufid.jpg",
+      "PackagePath": "staticwebassets\\uploads\\amine_mmoufid_moufid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\amine_moufid_moufid.png",
+      "PackagePath": "staticwebassets\\uploads\\amine_moufid_moufid.png"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\belfarchi_abdrahman_maldini.jpg",
+      "PackagePath": "staticwebassets\\uploads\\belfarchi_abdrahman_maldini.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\hamza_aamara_aamara.png",
+      "PackagePath": "staticwebassets\\uploads\\hamza_aamara_aamara.png"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodad_naoufal_naoufal.jpg",
+      "PackagePath": "staticwebassets\\uploads\\kodad_naoufal_naoufal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\kodada_naoufal_naoufalkodad.jpg",
+      "PackagePath": "staticwebassets\\uploads\\kodada_naoufal_naoufalkodad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kdnao\\source\\repos\\Projet\\NV1\\UsersService\\UsersService\\wwwroot\\uploads\\oualid_arbib_ARBIB.jpg",
+      "PackagePath": "staticwebassets\\uploads\\oualid_arbib_ARBIB.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UsersService.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UsersService.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UsersService.props",
+      "PackagePath": "build\\UsersService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UsersService.props",
+      "PackagePath": "buildMultiTargeting\\UsersService.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UsersService.props",
+      "PackagePath": "buildTransitive\\UsersService.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
