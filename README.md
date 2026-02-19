@@ -76,13 +76,45 @@ microservices-project/
 │   └── TournoiAPI/             (.NET Core)
 ├── frontend/                   (React SPA)
 ├── README.md
-└── VD                          (notes et informations diverses)
+└── Video Projet PFA            (notes et informations diverses)
 
 ```
 
 ---
+##🔹 Mes Tâches et Réalisations
+```
+**Backend .NET – UsersService**
 
+-Gestion des utilisateurs CRUD (Admin + utilisateurs)
 
+-Enregistrement et login des utilisateurs
+
+-Génération et gestion des tokens JWT
+
+-Upload et stockage de photos utilisateurs
+
+-Hashage sécurisé des mots de passe
+
+-Validation et sécurité des données
+
+**Backend Java – ReservationService**
+
+-Gestion des réservations de terrains
+
+-Gestion des créneaux pour les réservations
+
+-Services REST pour communication avec le frontend et UsersService
+
+**Frontend React**
+
+-Création des composants pour réservations et créneaux
+
+-Gestion des formulaires et validations
+
+-Appels API via Axios pour les 2 services backend
+
+-Gestion des routes privées et authentification (PrivateRoute.js)
+```
 ## 👥 Auteurs du projet
 
 * M.Kodad Naoufal
