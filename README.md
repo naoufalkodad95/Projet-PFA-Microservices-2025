@@ -103,7 +103,7 @@ microservices-project/
 - Appels API via Axios pour les 2 services backend
 - Gestion des routes privées et authentification (PrivateRoute.js)
 
-```
+
 ## 👥 Auteurs du projet
 
 * M.Kodad Naoufal
